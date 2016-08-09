@@ -6,8 +6,12 @@ that I mentor in ESA - in the scope of the
 
 ## Creating the daemon
 
-[![asciicast](https://asciinema.org/a/82207.png)](https://asciinema.org/a/82207)
+Video (asciicast) of compiling the SALACIA daemon that monitors the cameras:
+
+<a href="https://asciinema.org/a/82207"><img alt="Video (asciicast) of compiling the SALACIA daemon that monitors the cameras" src="https://asciinema.org/a/82207.png" width="590"/></a>
 
 ## Installing the daemon
 
-[![asciicast](https://asciinema.org/a/82213.png)](https://asciinema.org/a/82213)
+Video (asciicast) of monitoring the SALACIA daemon using [supervisord](http://supervisord.org/):
+
+<a href="https://asciinema.org/a/82213"><img alt="Video (asciicast) of compiling the SALACIA daemon that monitors the cameras" src="https://asciinema.org/a/82213.png" width="590"/></a>
