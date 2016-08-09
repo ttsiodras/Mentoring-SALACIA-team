@@ -6,12 +6,8 @@ that I mentor in ESA - in the scope of the
 
 ## Creating the daemon
 
-<center>
-<img src="contrib/video1.gif">
-</center>
+[![asciicast](https://asciinema.org/a/82207.png)](https://asciinema.org/a/82207)
 
 ## Installing the daemon
 
-<center>
-<img src="contrib/video2.gif">
-</center>
+[![asciicast](https://asciinema.org/a/82213.png)](https://asciinema.org/a/82213)
