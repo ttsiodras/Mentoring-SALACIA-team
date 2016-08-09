@@ -7,11 +7,11 @@ that I mentor in ESA - in the scope of the
 ## Creating the daemon
 
 <center>
-<video src="contrib/video1.webm">
+<img src="contrib/video1.webm">
 </center>
 
 ## Installing the daemon
 
 <center>
-<video src="contrib/video2.webm">
+<img src="contrib/video2.webm">
 </center>
